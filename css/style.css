@@ -342,6 +342,10 @@ input {
     .call {
         margin-right: 5%;
     }
+    .header_nav li a {
+        margin-right: 20px;
+
+    }
     .header_subtitle {
         margin: 0 auto;
     }
@@ -384,9 +388,6 @@ input {
         font-size: 16px;
     }
     @media (max-width:767px) {
-        html {
-            overflow-x: hidden;
-        }
         .lock {
             overflow: hidden;
         }
@@ -518,10 +519,10 @@ input {
             margin-top: 10px;
         }
     }
-    @media (max-width:320px) {
+    @media (max-width:360px) {
         .call {
             flex-wrap: nowrap;
-            font-size: 12px;
+            font-size: 15px;
         }
         
     }

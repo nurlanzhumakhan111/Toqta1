@@ -519,7 +519,7 @@ input {
             margin-top: 10px;
         }
     }
-    @media (max-width:360px) {
+    @media (max-width:361px) {
         .call {
             flex-wrap: nowrap;
             font-size: 15px;

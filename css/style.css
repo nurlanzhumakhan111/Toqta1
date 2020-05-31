@@ -2,14 +2,14 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    src: url(../font/Averta\ Cyrillic\ ExtraBold.otf);
-    src: url(../font/Averta\ Cyrillic\ SemiBold.otf);
-    src: url(../font/Averta\ Cyrillic\ Regular.otf);
-    src: url(../font/Averta\ Cyrillic\ Light.otf);
-    src: url(../font/TT\ Travels-DemiBold.otf);
-    src: url(../font/TT\ Travels-ExtraBold.otf);
-    src: url(../font/TT\ Travels-ExtraLight.otf);
-    src: url(../font/TT\ Travels-Regular.otf);
+    src: url(../font/Averta\ Cyrillic\ ExtraBold.woff2);
+    src: url(../font/Averta\ Cyrillic\ SemiBold.woff2);
+    src: url(../font/Averta\ Cyrillic\ Regular.woff2);
+    src: url(../font/Averta\ Cyrillic\ Light.woff2);
+    src: url(../font/TT\ Travels-DemiBold.woff2);
+    src: url(../font/TT\ Travels-ExtraBold.woff2);
+    src: url(../font/TT\ Travels-ExtraLight.woff2);
+    src: url(../font/TT\ Travels-Regular.woff2);
     overflow-x: hidden;
     color: #fff;
     background-color: #141617;
